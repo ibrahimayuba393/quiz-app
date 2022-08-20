@@ -33,7 +33,7 @@ inline absolute right-20 md:right-44
 `;
 
 export const PreviousButton = tw.button`
-h-11 w-20 bg-[#339af0] rounded-lg hover:bg-[#1864ab]
+h-11 w-20 bg-[#339af0] rounded-lg md:hover:bg-[#1864ab]
 `;
 
 export const NextButtonDiv = tw.div`
