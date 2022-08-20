@@ -41,7 +41,7 @@ inline absolute left-20 md:left-44
 `;
 
 export const NextButton = tw.button`
-h-11 w-20 bg-[#339af0] rounded-lg hover:bg-[#1864ab]
+h-11 w-20 bg-[#339af0] rounded-lg md:hover:bg-[#1864ab]
 `;
 
 export const QuestionsContainer = tw.div`

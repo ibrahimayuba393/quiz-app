@@ -62,7 +62,7 @@ const questions = [
     option2: "4",
     option3: "5",
     option4: "6",
-    answer: "7",
+    answer: "3",
   },
   {
     id: 8,
